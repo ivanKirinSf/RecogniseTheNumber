@@ -1,2 +1,2 @@
-# RecogniseTheNumber
+# ReckogniseTheNumber
 This is a simple console game "Recognise the number"
